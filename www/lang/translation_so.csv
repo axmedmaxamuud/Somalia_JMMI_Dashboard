@@ -1,0 +1,69 @@
+en,so
+ABOUT,KU SAABSAN
+"The Joint Market Monitoring Initiative (JMMI) is a joint initiative from the Somalia Water, Sanitation and Hygiene (WASH), Shelter, and Education clusters and REACH. It aims to address an information gap in Somalia in terms of regular and updated monitoring of market functionality and a broad range of non-food items (NFIs), while contributing to existing supply chain and price monitoring of the main minimum expenditure basket (MEB) items.","Hindisaha wada jirka ah ee koormeerka suuqa (JMMI) waa iskaashi wadajir ah oo ka yimid hay'adaha ka shaqeeya Biyaha, Fayadhowrka iyo Nadaafadda (WASH), Hoyga iyo Waxbarashada ee Somaaliya iyo haayada REACH. Ujeeddadeedu waa inay wax ka qabato farqiga macluumaadka ee ka jira Soomaaliya marka la eego kormeerka joogtada ah ee la cusbooneysiiyey ee ku saabsan shaqada suuqa iyo waxyaabaha aan cuntada ahayn (NFIs), iyadoo gacan ka geysaneysa silsiladda jirta iyo la socodka qiimaha ugu yar (MEB) ee alaabta."
+"Refer to the bottom of this page for more information about the methodology, coordination framework, target item specifications, and other resources.","Fadlan ka tixraac hoosta bogaan wixii macluumaad ku saabsan habka loo hawl galay iyo tilmaamaha alaabta, haayadaha ka qayb galay iyo suuqyada la gaadhay"
+LANGUAGE,LUUQADA
+Select language,Dooro luuqada
+"English, Somali","Ingriis, Somaali"
+ROUND,WAREEGA
+Select round,Door wareega
+Co-leads,Garwadeenada
+Partners,Hay'adaha qeybta ka ah
+Donor,Deeq bixiye
+Locations covered in the selected round,Goobaha lagu daboolay wareegga la soo xulay
+The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the JMMI coordination framework,Xuduudaha iyo magacyada la muujiyey iyo tilmaamaha loo adeegsaday khariidadan kama turjumayaan ogolaansho rasmi ah ama aqbalaad hay'adaha qeybta ka ah Hindisaha wada jirka ah ee koormeerka suuqa (JMMI)
+LOCATIONS,GOOBAHA
+Select location,Xulo goobta
+PRICES,QIIMAHA
+Show _MENU_ entries,Tus _MENU_ galitaan
+Search:,Raadi:
+First,Koowaad
+Last,Ugu Dambeeyay
+Next,Xiga
+Previous,Hore
+Item,Shayga
+# Vendors,# Libiyeyaal/ganacsatada
+Price (USD),Qiimaha (Doolarka Mareykanka)
+1st Quartile,Quartile-ka 1aad
+3rd Quartile,Quartile-ka 3aad
+Vendor Type,Nooca Iibiyaha
+DISTRIBUTION OF PRICES,QEYBSANAANTA QIIMAHA
+"Refer to 'How to read a boxplot' (below) for an explanation about how to read this graph. The targetted item specifications can also be found below. This graph is interactive, you can zoom in and mouse over to get more information, among other tools available at the upper right corner of this graph.","Tixraac 'sida loo akhriyo sanduuqa (Boxplot - ka)'  si aad u hesho sharaxaad ku saabsan jaantuskan (graph - ka). Alaabta la qiimeeyey ayaa laga heli karaa hoosta. jaantuskan waa mid hadba loo badali karo sidii la rabo, waad waynaan kartaa adigoo isticmaalaya falaadha 'mouse-ka' waanad wareejin kartaa si aad u hesho macluumaad dheeraad ah iyo qalabka kale ee laga heli karo geeska kore ee midig ee jaantuskan ama (graph)"
+Reported price (USD),Qiimaha la soo sheegay/tabiyay (Doolarka Mareykanka)
+STOCK,KAYDKA
+Key,Furaha
+Stock duration (days),Muddada keydka (maalmaha)
+Restocking time (days),Waqtiga dib u keenida alaabta (maalmaha)
+Stocking difficulty,Caqabadaha keydinta
+"Stock duration: Median number of days reported by vendors, that current stock of each assessed item is expected to last, assuming that the rate of purchase remains consistent.","Muddada keydka: Tirada dhexdhexaadka ee maalmaha ay soo sheegeen iibiyeyaashu, in saamiga hadda jira ee shay kasta oo la qiimeeyay la filayo inuu sii jiro/yaalo, iyadoo loo qiyaasayo in heerka iibku weli joogto yahay."
+In the graph below it is represented by the left bar.,Jaantuska hoose waxaa matalaya baalka bidix.
+"Restocking time: Median number of days reported by vendors, that it would take to restock each item assessed, from ordering to delivery in the shop.","Waqtiga dib u keenida alaabta: Tirada maalmaha dhexe ee ay soo sheegeen iibiyeyaashu, inay qaadanayso in dib loo cusbooneysiiyo shay kasta oo la qiimeeyay, laga bilaabo dalbashada iyo gaarsiinta dukaanka."
+In the graph below it is represented by the right bar.,Jaantuska hoose waxaa matalaya baarka saxda ah.
+"Stocking difficulty: Percentage of vendors reporting having experienced difficulty to restock each item assessed, in the 3 months prior to data collection.","Caqabadaha keydinta: Boqolleyda iibiyeyaasha ka warbixinaya inay dhib kala kulmeen inay dib u soo ceshadaan shay kasta oo la qiimeeyay, 3 bilood ee ka horreeyay xog uruurinta."
+In the graph below it is represented by the color red.,Jaantuska hoose waxaa matalaya midabka.
+Showing _START_ to _END_ of _TOTAL_ entries,Muujinaya _START_ illaa _END_ oo ka mid ah _TOTAL_ galitaan
+STOCK GRAPH,GARAAFKA KAYDKA
+"Refer to the key (above) for an explanation about how to read this graph. The targetted item specifications can be found below. For stock conditions, items with more than one specification are combined. This graph is interactive, you can zoom in and mouse over to get more information, among other tools available at the upper right corner of this graph.","Tixraac furaha (kor) sharaxaad ku saabsan sida loo aqriyo jaantuskan (garaafka).Tilmaamaha shayga la qiimeyay ayaa laga heli karaa hoosta.Xaaladaha saamiyada, waxyaabaha leh in ka badan hal qeexitaan ayaa la isku daraa.Jaantuskani waa mid sidaa dooneysid u isticmaali kartid; waad weyneeyn kartaa oo jiirka ayaad ku wareejin kartaa si aad u hesho macluumaad dheeraad ah, iyo qalabka kale ee laga heli karo geeska kore ee midig ee garaafkan."
+Days,Maalmaha
+METHODOLOGY,QAABKA FARSAMADA XOG URUURINTA
+"Primary data is collected quarterly through interviews with market vendors purposively selected from the targeted markets. The clusters' partners are responsible for data collection. In this first round, 491 interviews were collected from 12 locations between August 9-12, 2020. As vendors were purposively selected, findings are not statistically representative. To prevent spread and contraction of COVID-19, data was collected remotely. This situation limited the capacity of enumerators to target specific vendors. In addition, it limited possibilities of follow up with vendors. All findings are indicative only, and only apply to the period within which data was collected. Moreover, item specifications may vary slightly between locations according to different brands available, and comparability between the locations assessed is limited.","Xogta aasaasiga ah waxaa la uruuriyaa seddexdii biloodba mar iyadoo wareysiyada lala yeesho ganacsatada suuqa iyadoo si ula kac ah loo xushay suuqyada la bartilmaameedsaday. Hay'adaha qeybta ka ah daladan ayaa mas'uul ka ah ururinta xogta.Wareeggan koowaad, 491 wareysi ayaa laga soo uruuriyay 12 goobood inta udhaxeysa bishii sideedaad ilaa bishii labiyo tobnaad ee sanadkan 2020.  Maaddaama iibiyeyaashu si ula kac ah loo xushay, natiijooyinka ma ahan kuwo tirakoob wakiil ah. Si looga hortago faafitaanka iyo qaadida  COVID-19, xogta ayaa lagu uruuriyay hab fog oo wicitaan ah. Xaaladdaani waxay xaddiday awoodda xog uruuriyayaashu inay beegsadaan iibiyayaal gaar ah. Intaas waxaa sii dheer, waxay xadiday fursadaha dib-u-tixraacida iibiyeyaasha. Dhammaan natiijooyinka ayaa ah tilmaamayaal keliya, waxayna khuseeyaan oo keliya muddada lagu soo ururiyay xogta. Intaa waxaa sii dheer, qeexitaannada shayga way kala duwanaan karaan waxoogaa inta udhaxeysa goobaha iyadoo loo eegayo noocyo kala duwan oo la heli karo, iyo isbarbardhiga u dhexeeya goobaha la qiimeeyay wuu xadidan yahay."
+COORDINATION FRAMEWORK,HAY'ADAHA QEYBTA KA AH
+"The WASH and Shelter clusters are responsible for the identification of partners, among cluster members, willing to contribute to the JMMI. The clusters also lead external coordination with the Humanitarian Country Team (HCT) stakeholders and government actors. Cluster members identified as partners provide data collection capacity according to their access and availability, and support the study with sector-specific expertise. REACH is responsible for leading the tools and analysis framework design, training of partners and technical support for data collection, supporting focal points in managing the field data collection, leads on technical data management and data cleaning, data analysis, and output production. The geographic coverage area is determined by the access and capacity of partners. In order to maximize efficacy, certain markets are prioritized to reflect the areas in which cash transfer programs, particularly focused on NFIs, are planned or ongoing, as well as key supply chains for the main NFIs assessed.","Dalada (cluster) biyaha iyo fayadhawrka (WASH) iyo Hoyga ayaa mas'uul ka ah soo xulida hay'adaha qeybta ka noqonaya  , xubnaha ka tirsan Dalada ee doonaya inay wax ku biiriyaan JMMI. Dalada ayaa sidoo kale horseed u ah  isuduwidda dibedda ee daneeyayaasha Kooxaha Bani'aadamnimada ee Kooxda (HCT) iyo hawlwadeennada dawladda.Xubnaha Dalada loo aqoonsaday inay ka mid noqdaan ayaa bixiya awoodda xog uruurinta iyadoo loo eegayo marin u helistooda iyo helitaankoodaba, waxayna ku taageeraan daraasadda khibrad gaar u ah. REACH waxay mas'uul ka tahay hogaaminta aaladaha iyo qaabeynta falanqaynta, tababarka hay'adaha qeybta ka ah iyo taageerada farsamo ee xog aruurinta, taageerida uqaabilsanaha xug uruurinta goob waliba, maareynta xog aruurinta, waxay horseed u tahay maareynta xogta farsamada iyo nadiifinta xogta, falanqaynta xogta, iyo soo saarka warbixinada.Goobaha la qiimeeyey waxaa go'aaminaya helitaanka iyo awoodda hay'adaha qeybta ka ah Dalada e ka qeyb qaadanaya xog uruurinta. Si kor loogu qaado waxtarka, suuqyada qaarkood ayaa mudnaanta la siiyaa si ay u muujiyaan meelaha barnaamijyada lacag-bixinta, gaar ahaan diiradda la saarayo walxaha ama shayda aan cuntada ahayn NFI-yada, la qorsheynayo ama socda, iyo sidoo kale silsilado muhiim ah oo loogu talagalay NFI-yada waaweyn ee la qiimeeyay."
+TARGET ITEM SPECIFICATIONS,FAAHFAAHINTA SHEYGA LA QIIMEYNAYO
+HOW TO READ A BOXPLOT,SIDA LOO AQRIYO SANDUUQ (BOXPLOT-KA)
+"The logarithmic scale grows exponentially. The figure on the right starts at 0.5 and goes to 20. Only multiples of 10 are written in full, while other numbers (in this case 2 and 5) are guidances. This scale highlights differences in smaller numbers, and minimizes differences around larger numbers.","Qiyaasta logarithmic ayaa si aad ah u koraysa.Jaantuska dhanka midig wuxuu ka bilaabanayaa 0.5 wuxuuna aadayaa 20. Kaliya 10 jibaarayaal ayaa si buuxda loo qoraa, halka tirooyinka kale (kiiskan 2 iyo 5) ay yihiin hageyaal.Qiyaastaani waxay muujineysaa kala duwanaanshaha tirada yar, waxayna yareyneysaa kala duwanaanshaha ku saabsan tirooyinka waaweyn."
+Upper outliers: values higher than the upper fence,Qiimaha banaanka ah ee sare: qiime ka sarreeya xayndaabka sare
+Upper fence: higher value under Q3 + (1.5 * IQR),Xayndaabka sare: qiimaha ka hooseeya Q3 + (1.5 * IQR)
+Upper quartile (Q3): 25% of values are above this point,Quartile-ka sare (Q3): 25% qiimayaashu way ka sarreeyaan halkan
+"Median: 50% of values are above this point, and 50% of values are below this point","Dhexdhexaad: 50% qiimayaashu way ka sarreeyaan halkan, iyo 50% qiimayaashu way ka hooseeyaan halkan"
+Lower quartile (Q1): 25% of values are below this point,Quartile-ka hoose (Q1): 25% qiimayaashu way ka hooseeyaan halkan
+Lower fence: lower value under Q1 – (1.5 * IQR),Xayndaabka hoose: qiimaha hoose ee Q1 - (1.5 * IQR)
+Lower outliers: lowervalues than the lower fence ,Qiimaha banaanka ah ee hoose: qiimaha hoose ee ka hooseeya xeyndaabka hoose
+RESOURCES,ILAHA (RESOURCES)
+Reported length of current stock,Muddada la soo sheegay ee kaydka hadda jira
+"Reported time to restock, from order to item in shop","Waqtiga la soo sheegay si loo cusbooneysiiyo, laga bilaabo amarka/dalabka alaabada dukaanka"
+Cusbooneysiinta luqadda ...,Updating language...
+"If you have questions about the JMMI, suggestions for improving this dashboard, and/or would like to report an error, please write to us using the link below","Haddii aad qabtid su'aalo ku saabsan JMMI, talooyin ku saabsan hagaajinta/sare u qaadida dashboodkan, iyo / ama aad jeceshahay inaad soo sheegto khalad jira, fadlan noo soo qor adoo adeegsanaya xiriirka hoose"
+FEEDBACK,JAWAAB-CELIN
+Median reported prices for items assessed and number of vendors reporting this per key item.,Qiimayaasha alaabta iyo tirade iibiyeyaasha ka war bixiyey shay kasta oo muhiima.
+"Median reported stock levels and expected restocking time (in days), and median stocking difficulty.","Heerka sugnaanta kaydka ah ee la shoo sheegay iyo mudada dib u dhigistooda la filayo (Maalmo), Caqabadaha keydka iyo tirade iibiyeyaasha ka warbixiyey alaabta."
